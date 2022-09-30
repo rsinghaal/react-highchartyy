@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chrome",
+    "y": 70.67
+  },
+  {
+    "name": "Edge",
+    "y": 14.77
+  },
+  {
+    "name": "Firefox",
+    "y": 4.86
+  },
+  {
+    "name": "Safari",
+    "y": 332.63
+  },
+  {
+    "name": "Internet Explorer",
+    "y": 51.53
+  },
+  {
+    "name": "Opera",
+    "y": 31.4
+  },
+  {
+    "name": "Sogou Explorer",
+    "y": 10.84
+  },
+  {
+    "name": "QQ",
+    "y": 10.51
+  },
+  {
+    "name": "Other",
+    "y": 112.6
+  }
+]
